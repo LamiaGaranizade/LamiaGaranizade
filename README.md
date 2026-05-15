@@ -1,17 +1,59 @@
-<h1 align="center">Hi 👋, I'm Lamia</h1>
-<h3 align="center">A passionate student from Azerbaijan</h3>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/lamiye qerenizade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="lamiye qerenizade" height="30" width="40" /></a>
-<a href="https://instagram.com/lam_ia474" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lam_ia474" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Salam,%20mən%20Lamiyə!%20👋&fontSize=50&animation=fadeIn" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+### 👩‍💻 Haqqımda
+<p align="left">
+  🎓 <b>ADNSU</b>-da İnformasiya Texnologiyaları tələbəsiyəm.<br>
+  📊 <b>Data Analitika</b> sahəsində vizuallaşdırma və analiz ilə məşğul oluram.<br>
+  🚀 <b>Könüllü fəaliyyətlər:</b> ASAN Könüllüləri və WUF 13 (World Urban Forum) iştirakçısıyam.<br>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lamiagaranizade&show_icons=true&locale=en&layout=compact" alt="lamiagaranizade" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lamiagaranizade&show_icons=true&locale=en" alt="lamiagaranizade" /></p>
+### 🛠️ Texnoloji Alətlər & Bacarıqlar
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lamiagaranizade&" alt="lamiagaranizade" /></p>
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <b>📊 Data Analitika</b><br><br>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black" /><br>
+      <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+    </td>
+    <td align="center" width="33%">
+      <b>💻 Proqramlaşdırma</b><br><br>
+      <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+    </td>
+    <td align="center" width="33%">
+      <b>⚙️ İdarəetmə & Digər</b><br><br>
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/Monday.com-6161FF?style=for-the-badge&logo=mondaydotcom&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+    </td>
+  </tr>
+</table>
+
+---
+
+
+### 🤝 Mənimlə əlaqə
+<p align="left">
+  <a href="[BURAYA_LINKEDIN_LINKINI_YAPISDIR](https://www.linkedin.com/in/lamiyə-qərənizadə-82320239b?utm_source=share_via&utm_content=profile&utm_medium=member_android)" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:lamiyeqerenizade@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
